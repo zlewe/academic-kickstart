@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: B.S. in Electrical and Computer Engineering
+  - course: B.Sc. in Electrical and Computer Engineering
     institution: National Chiao Tung University
-    year: Current
+    year: Class of 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
