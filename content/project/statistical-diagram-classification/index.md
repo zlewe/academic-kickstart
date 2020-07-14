@@ -3,8 +3,8 @@
 
 title: "Statistical Diagram Classification"
 summary: "Python web app using Flask for Statistical Diagram Classification using CNN"
-authors: ["Ewe Zu Lin"]
-tags: ["Deep Learning"]
+authors: ["Zu Lin Ewe"]
+tags: ["Deep Learning", "Python", "Convolutional Neural Network"]
 categories: []
 date: 2019-07-01T00:05:26+08:00
 

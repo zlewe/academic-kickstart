@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zu Lin Ewe
+title: Zu Lin Ewe
 
 # Username (this should match the folder name)
 authors:
@@ -23,7 +23,8 @@ bio: ECE Undergrad in Taiwan from Malaysia. Interested in unmanned robotics.
 interests:
 - Robotics
 - Autonomous Vehicle
-- Artificial Intelligence
+- SLAM
+- Machine Learning
 - Computer Vision
 
 education:
@@ -33,7 +34,7 @@ education:
     year: Class of 2021
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
@@ -50,21 +51,21 @@ social:
   icon_pack: fab
   link: https://github.com/zlewe
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jamesewe.eed06@g2.nctu.edu.tw"
-  
+email: ""
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 #user_groups:
 #- Researchers
 #- Visitors
 ---
 
-[WORK IN PROGRESS] Ewe Zu Lin is a future enginner who is looking forward to enter the robotics field specialising in Autonomous Robots and Artificial Intelligence.
+Zu Lin Ewe is a future researcher/engineer who is looking forward to enter the robotics field specialising in Autonomous Robots and Artificial Intelligence.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zu Lin has experiences in robotics competitions such as NRC (Malaysian regional WRO), and DARPA Sub-Terranean Challenge. Zu Lin is currently doing undergraduate research works under Assistive Robotics Group in NCTU, Taiwan.

@@ -18,6 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Undergraduate Research"
+  company = "Assistive Robotics Group, NCTU"
+  company_url = "https://arg-nctu.github.io/"
+  location = "Hsinchu, Taiwan"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """Research mainly focus on topics related to robots deployment in challenging environments for Search and Rescue (SAR) missions.
+  """
+
+[[experience]]
+  title = "DARPA SubT Challenge Urban Circuit"
+  company = "Team NCTU"
+  company_url = "https://arg-nctu.github.io/SubT"
+  location = "Elma, Washington, USA"
+  date_start = "2020-02-18"
+  date_end = "2020-02-27"
+  description = """Team Member.</br>
+  The DARPA Subterranean (SubT) Challenge aims to develop innovative technologies that would augment operations underground.
+  """
+
+[[experience]]
   title = "Summer Intern"
   company = "Assistive Robotics Group, NCTU"
   company_url = "https://arg-nctu.github.io/"
@@ -32,7 +53,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Student Helper"
+  title = "Student Assistant"
   company = "Office of International Affairs, NCTU"
   company_url = "https://oia.nctu.edu.tw/en/"
   location = "Hsinchu, Taiwan"
