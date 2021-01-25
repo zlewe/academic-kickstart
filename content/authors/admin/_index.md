@@ -16,6 +16,7 @@ role: Undergraduate Student
 organizations:
 - name: National Chiao Tung University
   url: "https://www.nctu.edu.tw/en"
+  img: NCTU.png
 
 # Short bio (displayed in user profile at end of posts)
 bio: ECE Undergrad in Taiwan from Malaysia. Interested in unmanned robotics.
@@ -66,6 +67,6 @@ email: ""
 #- Visitors
 ---
 
-Zu Lin Ewe is a future researcher/engineer who is looking forward to enter the robotics field specialising in Autonomous Robots and Artificial Intelligence.
+I am a future researcher/engineer who is looking forward to enter the robotics field specialising in Autonomous Robots and Artificial Intelligence.
 
-Zu Lin has experiences in robotics competitions such as NRC (Malaysian regional WRO), and DARPA Sub-Terranean Challenge. Zu Lin is currently doing undergraduate research works under Assistive Robotics Group in NCTU, Taiwan.
+I have experiences in robotics competitions such as NRC (Malaysian regional WRO), and DARPA Sub-Terranean Challenge. I am currently doing undergraduate research works under Assistive Robotics Group in NCTU, Taiwan.

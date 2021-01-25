@@ -8,6 +8,10 @@ weight = 40  # Order that this section will appear.
 title = "Experience"
 subtitle = ""
 
+cta_label = "Download CV"
+cta_url = "/files/cv.pdf"
+cta_icon = "fas fa-file"
+
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
@@ -35,7 +39,10 @@ date_format = "Jan 2006"
   date_start = "2020-02-18"
   date_end = "2020-02-27"
   description = """Team Member.</br>
-  The DARPA Subterranean (SubT) Challenge aims to develop innovative technologies that would augment operations underground.
+  The DARPA Subterranean (SubT) Challenge aims to develop innovative technologies that would augment operations underground.</br>
+  Roles:
+   - Communications between robots and base station
+   - Base station setup
   """
 
 [[experience]]
@@ -58,7 +65,7 @@ date_format = "Jan 2006"
   company_url = "https://oia.nctu.edu.tw/en/"
   location = "Hsinchu, Taiwan"
   date_start = "2018-06-24"
-  date_end = ""
+  date_end = "2020-09-11"
   description = """Assisting Office of International Affairs in various odd jobs."""
 
 +++
