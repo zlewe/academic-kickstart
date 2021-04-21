@@ -32,7 +32,11 @@ education:
   courses:
   - course: B.Sc. in Electrical and Computer Engineering
     institution: National Chiao Tung University
-    year: Class of 2021
+    year: 2017 - 2021
+  
+#  - course: M.Sc. in Electrical and Computer Engineering
+#    institution: National Taiwan University
+#    year: 2021 - 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,4 +73,4 @@ email: ""
 
 I am a future researcher/engineer who is looking forward to enter the robotics field specialising in Autonomous Robots and Artificial Intelligence.
 
-I have experiences in robotics competitions such as NRC (Malaysian regional WRO), and DARPA Sub-Terranean Challenge. I am currently doing undergraduate research works under Assistive Robotics Group in NCTU, Taiwan.
+I have experiences in robotics competitions such as NRC (Malaysian regional WRO), and DARPA Sub-Terranean Challenge. I have done undergraduate research works under Assistive Robotics Group in NCTU, Taiwan. 

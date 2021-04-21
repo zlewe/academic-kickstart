@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   company_url = "https://arg-nctu.github.io/"
   location = "Hsinchu, Taiwan"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2021-03-31"
   description = """Research mainly focus on topics related to robots deployment in challenging environments for Search and Rescue (SAR) missions.
   """
 
